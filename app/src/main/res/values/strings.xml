@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstDemo</string>
+    <string name="start_other_activity">Start Other Activity</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+</resources>
